@@ -1,0 +1,7 @@
+# MATLAB/Simulink specific ignore
+*.slxc
+slprj/
+*.asv
+
+# Windows specific
+desktop.ini
