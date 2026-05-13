@@ -1,0 +1,4 @@
+interface:
+  display_name: "Discord Heartbeat"
+  short_description: "Post durable Codex heartbeat summaries to Discord webhooks."
+  default_prompt: "Set up or repair a durable recurring Codex heartbeat that posts concise thread summaries to Discord using a persistent webhook secret and local sender script."
